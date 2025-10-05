@@ -43,6 +43,76 @@ Now we should have two Storage Account
 
 <img width="1497" height="503" alt="image" src="https://github.com/user-attachments/assets/7242ca6d-ccd9-480d-b039-a7fc5ab86a6d" />
 
+# 16. Container Creation and File Upload
+
+## create container in storder000111
+
+<img width="622" height="351" alt="image" src="https://github.com/user-attachments/assets/38fd0a41-a48a-4ee2-b1c1-1201e724fab4" />
+
+To add containers to a **storage account**
+
+<img width="601" height="679" alt="image" src="https://github.com/user-attachments/assets/1db2a8ea-7058-4186-b040-39487743d10a" />
+
+create a **container** called *landing*
+
+then upload files
+
+
+<img width="1682" height="442" alt="image" src="https://github.com/user-attachments/assets/bc1df53c-5c4f-4c02-ad87-798009bd8a18" />
+
+because we had turned on **soft delete** when we created our storage account, if we delete a file, it will be retained for the retention period.
+
+<img width="1457" height="388" alt="image" src="https://github.com/user-attachments/assets/f1ce006b-c3d0-4a84-8b76-24194d231cdb" />
+
+
+## create container in dlorders000111
+
+create four containers, raw, cleansed, structured and analytics
+
+<img width="1690" height="414" alt="image" src="https://github.com/user-attachments/assets/39781ead-b35d-45ff-a6e3-2259fa199a7c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
